@@ -11,6 +11,7 @@
 		C717C93625C596880027E1A3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C717C93525C596880027E1A3 /* ContentView.swift */; };
 		C717C93825C5968B0027E1A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C717C93725C5968B0027E1A3 /* Assets.xcassets */; };
 		C717C93B25C5968B0027E1A3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C717C93A25C5968B0027E1A3 /* Preview Assets.xcassets */; };
+		C717C94425C5D9BD0027E1A3 /* MemoryGames.swift in Sources */ = {isa = PBXBuildFile; fileRef = C717C94325C5D9BD0027E1A3 /* MemoryGames.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C717C93725C5968B0027E1A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C717C93A25C5968B0027E1A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C717C93C25C5968B0027E1A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C717C94325C5D9BD0027E1A3 /* MemoryGames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGames.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C717C93325C596880027E1A3 /* MemorizeApp.swift */,
 				C717C93525C596880027E1A3 /* ContentView.swift */,
+				C717C94325C5D9BD0027E1A3 /* MemoryGames.swift */,
 				C717C93725C5968B0027E1A3 /* Assets.xcassets */,
 				C717C93C25C5968B0027E1A3 /* Info.plist */,
 				C717C93925C5968B0027E1A3 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C717C94425C5D9BD0027E1A3 /* MemoryGames.swift in Sources */,
 				C717C93625C596880027E1A3 /* ContentView.swift in Sources */,
 				C717C93425C596880027E1A3 /* MemorizeApp.swift in Sources */,
 			);
